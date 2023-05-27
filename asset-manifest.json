@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mafia/static/css/main.54179614.css",
+    "main.js": "/mafia/static/js/main.a17e1238.js",
+    "static/media/image.jpg": "/mafia/static/media/image.66f238adf560c8d60a72.jpg",
+    "static/media/mask.gif": "/mafia/static/media/mask.430d2f2ccacd5f9e2fa9.gif",
+    "static/media/style.gif": "/mafia/static/media/style.8b9e7249772b550cc442.gif",
+    "static/media/resnet.gif": "/mafia/static/media/resnet.55cd2bc7c55b48156844.gif",
+    "static/media/gan.gif": "/mafia/static/media/gan.2cae48efcd26214248cd.gif",
+    "static/media/port.gif": "/mafia/static/media/port.120c971b37404c817f57.gif",
+    "static/media/ocr.gif": "/mafia/static/media/ocr.f520bab482c249640750.gif",
+    "static/media/surv.gif": "/mafia/static/media/surv.189558bd762ed660f1fa.gif",
+    "index.html": "/mafia/index.html",
+    "main.54179614.css.map": "/mafia/static/css/main.54179614.css.map",
+    "main.a17e1238.js.map": "/mafia/static/js/main.a17e1238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54179614.css",
+    "static/js/main.a17e1238.js"
+  ]
+}
